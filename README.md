@@ -1,4 +1,4 @@
-testJavaEasy
+Java Test - level easy
 ============
 
 Technical test Java for trainee and junior developper
@@ -12,6 +12,13 @@ Download the package on your machine. Open the project with Eclipse and it is re
 
 Open the file "Code.java" and only ask to fill the functions with java code
 
+## Does the candidate access to internet ?
+
+Internet isn't required for this test
+
+## Does the class need modifications ?
+
+No, the class and comparators are ready to work, only need to use them
 
 ## How to test the result of the code ?
 
