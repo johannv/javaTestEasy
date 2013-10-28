@@ -12,7 +12,7 @@ Download the package on your machine. Open the project with Eclipse and it is re
 
 Open the file "Code.java" and only ask to fill the functions with java code
 
-## Does the candidate access to internet ?
+## Does the candidate need an access to internet ?
 
 Internet isn't required for this test
 
