@@ -42,7 +42,7 @@ public class Code {
 	 * Exercice 3 :
 	 * 
 	 * Développez la fonction permettant de retourner la chaine de caractères la
-	 * plus longue. Si la liste est vide, la fonction renvoie null.
+	 * plus longue. Si la liste est vide ou null, la fonction renvoie null.
 	 */
 	public String getLongestStringInArray(ArrayList<String> list) {
 		return null;
@@ -120,6 +120,10 @@ public class Code {
 	 * 
 	 * Développez la fonction permettant de retourner le nombre de fois que la
 	 * chaine1 est contenue dans la chaine2.
+	 * 
+	 * Aide : Pattern pattern = Pattern.compile(String s);
+	 * 		  Matcher matcher = pattern.matcher(String s);
+	 * 		  matcher.find();
 	 */
 	public int getFrequence(String string1, String string2) {
 		return 0;

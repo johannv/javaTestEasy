@@ -7,7 +7,6 @@ Technical test Java for trainee and junior developper
 
 Download the package on your machine. Open the project with Eclipse and it is ready to work
 
-
 ## How to work the test ?
 
 Open the file "Code.java" and only ask to fill the functions with java code
